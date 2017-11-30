@@ -11,7 +11,7 @@ driver = webdriver.Chrome(executable_path=r'/Users/dom/Desktop/dev/chromedriver'
 
 your_groups_code = """
 
-Enter-Group-Source-Code-Here
+
 
 """
 
